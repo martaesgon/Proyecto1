@@ -1,1 +1,1 @@
-# Proyecto1
+# EOI2025
